@@ -1,14 +1,32 @@
 
 img {
-    display: block;
-    height: 260px;
-    width: 260px;
     margin: 0 auto;
     padding: 10px 20px 10px 20px;
 }
 
-div.coolbox {
+.homeimg {
+    /* display: block; */
+    height: 260px;
+    width: 260px;
+}
+
+.topicimg {
+    height: 300px;
+    width: auto;
+}
+
+ul {
+    font-family: monospace sans-serif;
+    font-style: italic;
+}
+
+/* div.coolbox {
     margin: 10px;
     padding: 20px;
     border: lightblue dotted 3px;
-}
+} */
+
+/* span.addinfo {
+    font-family: monospace sans-serif;
+    font-style: italic;
+} */
