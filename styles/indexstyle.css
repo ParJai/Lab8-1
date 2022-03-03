@@ -1,0 +1,32 @@
+
+html {
+    background-color: turquoise;
+}
+
+body {
+    background-color: rgb(51, 170, 51);
+}
+
+a {
+    color: rgb(185, 47, 47);
+}
+
+a:hover {
+    text-decoration: solid;
+    color: whitesmoke;
+}
+
+div.image-container {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    display: block;
+    height: 260px;
+    width: 260px;
+}
+
+.multipleimgs {
+    margin: auto 25px auto 25px;
+}

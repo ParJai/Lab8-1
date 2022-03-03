@@ -1,0 +1,24 @@
+
+html {
+    background-color: orangered;
+}
+
+body {
+    background-color: rgb(228, 176, 80);
+}
+
+img {
+    height: 220px;
+    width: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+a {
+    color: rgb(0, 153, 255);
+}
+
+a:hover {
+    text-decoration: solid;
+    color: rgb(224, 26, 69);
+}
